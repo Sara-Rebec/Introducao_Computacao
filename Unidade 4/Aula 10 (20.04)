@@ -32,6 +32,7 @@ Cada grupo deve incluir neste repositório:
 - Dentro da pasta, incluir:
   - `linha_tempo.pdf` ou `linha_tempo.png`
   - `elementos_rede.png` ou `elementos_rede.pdf`
+##Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
 
