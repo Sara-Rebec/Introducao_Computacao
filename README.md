@@ -208,7 +208,7 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR ISO/IEC 27000:2018 – T
 
 MICROSOFT. **MS17-010: atualização de segurança para Windows SMB Server**. Microsoft Security Response Center, 2017. Disponível em: <https://learn.microsoft.com/pt-br/security-updates/securitybulletins/2017/ms17-010>. Acesso em: 25 maio 2026.
 
-KASPERSKY. **WannaCry ransomware: o que é e como se proteger**. Kaspersky, 2024. Disponível em: <https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry>. Acesso em: 25 maio 2026.
+KASPERSKY. **WannaCry ransomware: o que é e como se proteger**. Kaspersky, 2024. Disponível em: <https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry>. Acesso em: 22 maio 2026.
 
 CISCO. **What Is Malware?** Cisco. Disponível em: <https://www.cisco.com/c/en/us/products/security/what-is-malware.html>. Acesso em: 22 maio 2026.
 
