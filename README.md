@@ -201,3 +201,19 @@ O fator humano é considerado o elo mais frágil da segurança da informação p
 Os criminosos digitais frequentemente utilizam técnicas de engenharia social para manipular emoções e enganar usuários. Dessa forma, a falta de atenção, treinamento e conscientização pode comprometer toda a segurança de uma organização.
 
 Por isso, além da tecnologia, é fundamental investir na educação e capacitação das pessoas para reduzir riscos e aumentar a proteção das informações.
+
+# Referências 
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR ISO/IEC 27000:2018 – Tecnologia da informação — Técnicas de segurança — Sistemas de gestão da segurança da informação — Visão geral e vocabulário**. Rio de Janeiro: ABNT, 2018. Disponível em: <https://www.abntcatalogo.com.br/>. Acesso em: 25 maio 2026.
+
+MICROSOFT. **MS17-010: atualização de segurança para Windows SMB Server**. Microsoft Security Response Center, 2017. Disponível em: <https://learn.microsoft.com/pt-br/security-updates/securitybulletins/2017/ms17-010>. Acesso em: 25 maio 2026.
+
+KASPERSKY. **WannaCry ransomware: o que é e como se proteger**. Kaspersky, 2024. Disponível em: <https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry>. Acesso em: 25 maio 2026.
+
+CISCO. **What Is Malware?** Cisco. Disponível em: <https://www.cisco.com/c/en/us/products/security/what-is-malware.html>. Acesso em: 25 maio 2026.
+
+FORTINET. **What is Phishing?** Fortinet. Disponível em: <https://www.fortinet.com/resources/cyberglossary/phishing>. Acesso em: 25 maio 2026.
+
+IBM. **What is Social Engineering?** IBM. Disponível em: <https://www.ibm.com/topics/social-engineering>. Acesso em: 25 maio 2026.
+
+CARTILHA CERT.BR. **Segurança para Internet**. Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. Disponível em: <https://cartilha.cert.br/>. Acesso em: 25 maio 2026.
