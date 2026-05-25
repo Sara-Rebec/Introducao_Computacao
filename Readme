@@ -1,1 +1,232 @@
+````markdown
+# 📘 Aula 12 – Internet: História, Conceitos, Protocolos e Navegadores
+
+# 🌐 1. História da Internet
+
+A Internet surgiu durante a Guerra Fria, na década de 1960, através de um projeto militar dos Estados Unidos chamado **ARPANET**. O objetivo era criar uma rede de comunicação resistente a falhas, permitindo a troca de informações entre computadores mesmo em situações de ataque.
+
+Na década de 1970, universidades e centros de pesquisa passaram a utilizar a rede para compartilhamento acadêmico e científico. Com isso, surgiram os primeiros protocolos de comunicação, como o **TCP/IP**, que permitiram a expansão da Internet.
+
+Durante os anos 1990, a Internet começou a ser utilizada comercialmente e se popularizou no mundo todo. Nesse período, o cientista britânico Tim Berners-Lee criou a **World Wide Web (WWW)**, permitindo a navegação por páginas interligadas através de links e navegadores.
+
+Atualmente, a Internet é uma das principais tecnologias de comunicação global, utilizada para estudos, trabalho, entretenimento e serviços digitais.
+
+---
+
+# 💡 2. Conceitos Fundamentais
+
+## 🌎 Internet vs Web
+
+Embora muitas pessoas utilizem os termos como sinônimos, eles possuem significados diferentes:
+
+| Internet | Web |
+|---|---|
+| Rede mundial de computadores conectados | Sistema de páginas acessadas pela Internet |
+| Funciona através de protocolos | Utiliza navegadores para acessar conteúdos |
+| Inclui e-mails, jogos online e aplicativos | Baseada em sites e páginas web |
+
+### 📌 Exemplo
+- A **Internet** é a infraestrutura.
+- A **Web** é um serviço que funciona sobre essa infraestrutura.
+
+---
+
+## 🖥️ Arquitetura Cliente-Servidor
+
+A arquitetura cliente-servidor é o modelo utilizado na comunicação da Internet.
+
+### 🔹 Funcionamento
+- **Cliente:** dispositivo ou navegador que faz uma solicitação.
+- **Servidor:** computador responsável por responder à solicitação.
+
+### 📌 Exemplo
+Quando um usuário acessa um site:
+1. O navegador envia uma requisição ao servidor.
+2. O servidor processa o pedido.
+3. O servidor retorna a página solicitada.
+
+---
+
+## 🌐 Endereços IP
+
+O endereço IP identifica dispositivos conectados à rede.
+
+### 📌 Exemplo de IPv4
+
+```txt
+192.168.0.1
+```
+
+### 🔹 Função
+Permitir que dados sejam enviados corretamente entre dispositivos.
+
+### 🔹 Tipos
+- IPv4
+- IPv6
+
+---
+
+# 🔗 3. Protocolos
+
+## 📡 TCP/IP
+
+O conjunto de protocolos TCP/IP é a base da comunicação na Internet.
+
+### 🔹 TCP
+Responsável pela entrega confiável dos dados.
+
+### 🔹 IP
+Responsável pelo endereçamento e roteamento dos pacotes.
+
+### 📌 Exemplo
+Ao enviar uma mensagem, o TCP divide os dados em pacotes e o IP define o destino correto.
+
+---
+
+## 🌍 HTTP/HTTPS
+
+### 🔹 HTTP
+Protocolo utilizado para transferência de páginas web.
+
+### 🔹 HTTPS
+Versão segura do HTTP, utilizando criptografia SSL/TLS.
+
+### 📌 Exemplo
+
+```txt
+https://www.google.com
+```
+
+O cadeado no navegador indica conexão segura.
+
+---
+
+## 🧭 DNS
+
+O DNS funciona como um “tradutor” de nomes.
+
+### 🔹 Função
+Converter nomes de domínio em endereços IP.
+
+### 📌 Exemplo
+
+```txt
+www.youtube.com → 142.250.79.206
+```
+
+Sem o DNS, seria necessário decorar números IP para acessar sites.
+
+---
+
+## 📁 FTP
+
+O FTP é utilizado para transferência de arquivos entre computadores.
+
+### 📌 Exemplo de uso
+- Upload de arquivos para servidores.
+- Transferência de backups.
+
+### 🔹 Programas comuns
+- FileZilla
+- WinSCP
+
+---
+
+# 🌍 4. Navegadores
+
+Os navegadores são programas utilizados para acessar páginas web.
+
+## 🔹 Funções
+- Interpretar HTML.
+- Aplicar estilos CSS.
+- Executar códigos JavaScript.
+
+---
+
+## ⚙️ Principais motores de renderização
+
+| Motor | Navegador |
+|---|---|
+| Blink | Chrome e Edge |
+| Gecko | Firefox |
+| WebKit | Safari |
+
+### 📌 Explicação
+O motor de renderização é responsável por transformar o código do site em elementos visuais exibidos na tela.
+
+---
+
+# 🛠️ 5. Exercício Prático – Análise de Protocolos
+
+## 🔧 Ferramentas utilizadas
+- Wireshark
+- Inspetor do Navegador (F12)
+
+---
+
+## 📄 Exemplo de análise
+
+### 📤 Request (Requisição)
+
+```txt
+GET / HTTP/1.1
+Host: www.google.com
+```
+
+### 📥 Response (Resposta)
+
+```txt
+HTTP/1.1 200 OK
+Content-Type: text/html
+```
+
+---
+
+## 📊 Status Code
+
+| Código | Significado |
+|---|---|
+| 200 | Sucesso |
+| 404 | Página não encontrada |
+| 500 | Erro interno do servidor |
+
+---
+
+## ✅ Resultado observado
+
+Durante a análise, foi possível identificar:
+- Requisições feitas pelo navegador.
+- Respostas enviadas pelo servidor.
+- Protocolos utilizados na comunicação.
+- Informações sobre segurança HTTPS.
+
+---
+
+# 📂 Organização dos Arquivos
+
+```txt
+Grupo1_Protocolos/
+│
+├── historia_internet.md
+├── conceitos.md
+├── protocolos.md
+├── navegadores.md
+├── analise_protocolos.pdf
+└── README.md
+```
+
+---
+
+# ✅ Conclusão
+
+O trabalho permitiu compreender a evolução da Internet, seus principais conceitos e protocolos de comunicação. Também foi possível analisar como navegadores e servidores se comunicam através de requisições e respostas na web.
+
+---
+
+# 📝 Reflexão Individual
+
+## ❓ “Qual protocolo você considera mais essencial para o funcionamento da Internet e por quê?”
+
+O protocolo que considero mais essencial é o **TCP/IP**, pois ele é a base da comunicação na Internet. Sem ele, os dispositivos não conseguiriam trocar informações corretamente. O TCP garante que os dados cheguem completos e organizados, enquanto o IP identifica os dispositivos e define o caminho das informações na rede. Dessa forma, praticamente todos os serviços da Internet dependem desse conjunto de protocolos para funcionar adequadamente.
+````
 
