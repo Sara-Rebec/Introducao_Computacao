@@ -39,6 +39,7 @@ Seção 1 – O que é phishing?: explicação da ameaça com analogia do anzol.
 Seção 2 – Como funciona?: exemplos práticos (e-mail falso, link fraudulento, Pix por engano).
 Seção 3 – Quais os riscos?: impactos financeiros, de privacidade e de identidade.
 Seção 4 – Como se proteger?: mecanismos de proteção com dicas visuais e interativas.
+link de acesso: https://sara-rebec.github.io/Introducao_Computacao/ 
 
 ------
 
@@ -49,3 +50,5 @@ Seção 4 – Como se proteger?: mecanismos de proteção com dicas visuais e in
 -  **README.md** – Documento explicativo do trabalho.
 -  **index.html** – Infográfico interativo produzido pelo grupo.
 -  **reflexao.md** – Reflexão sobre o desenvolvimento e os aprendizados obtidos durante a atividade.
+
+
