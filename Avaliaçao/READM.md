@@ -11,7 +11,7 @@
 
 ### 1. Ameaça Escolhida
 - **Phishing**: técnica de fraude online em que criminosos se passam por pessoas ou instituições confiáveis para "pescar" dados pessoais e financeiros das vítimas.
-- **Cartilha utilizada como referência**: [CERT.br – Fascículo Phishing e Outros Golpes](https://cartilha.cert.br/fasciculos/phishing-golpes/fasciculo-phishing-golpes.pdf)
+- **Cartilha utilizada como referência**: [CERT.br – Fascículo Phishing e Outros Golpes](https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf)
 
 ---
 
