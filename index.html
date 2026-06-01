@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phishing – Infográfico Interativo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #1a73e8;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+    }
+
+    header h1 {
+      font-size: 28px;
+    }
+
+    header p {
+      margin-top: 8px;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      background-color: #fff;
+      padding: 15px;
+      border-bottom: 2px solid #ddd;
+    }
+
+    nav button {
+      padding: 10px 18px;
+      border: 2px solid #1a73e8;
+      background-color: white;
+      color: #1a73e8;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    nav button:hover,
+    nav button.ativo {
+      background-color: #1a73e8;
+      color: white;
+    }
+
+    .secao {
+      display: none;
+      max-width: 800px;
+      margin: 30px auto;
+      background-color: white;
+      border-radius: 8px;
+      padding: 30px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .secao.ativa {
+      display: block;
+    }
+
+    .secao h2 {
+      font-size: 22px;
+      color: #1a73e8;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #e8f0fe;
+      padding-bottom: 8px;
+    }
+
+    .secao p {
+      font-size: 15px;
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    .secao ul {
+      padding-left: 20px;
+      margin-top: 10px;
+    }
+
+    .secao ul li {
+      margin-bottom: 10px;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .alerta {
+      background-color: #fff3cd;
+      border-left: 4px solid #f0a500;
+      padding: 12px 16px;
+      border-radius: 4px;
+      margin: 15px 0;
+      font-size: 14px;
+    }
+
+    .dica {
+      background-color: #e8f5e9;
+      border-left: 4px solid #34a853;
+      padding: 12px 16px;
+      border-radius: 4px;
+      margin: 15px 0;
+      font-size: 14px;
+    }
+
+    .exemplo {
+      background-color: #e8f0fe;
+      border-left: 4px solid #1a73e8;
+      padding: 12px 16px;
+      border-radius: 4px;
+      margin: 15px 0;
+      font-size: 14px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 13px;
+      color: #777;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🎣 Phishing</h1>
+  <p>Infográfico Interativo – Segurança da Informação | CEUB</p>
+  <p style="margin-top:4px;">Baseado na Cartilha de Segurança para Internet – CERT.br</p>
+</header>
+
+<nav>
+  <button class="ativo" onclick="mostrar('o-que-e', this)">O que é?</button>
+  <button onclick="mostrar('como-funciona', this)">Como funciona?</button>
+  <button onclick="mostrar('riscos', this)">Riscos</button>
+  <button onclick="mostrar('protecao', this)">Como se proteger</button>
+</nav>
+
+<div id="o-que-e" class="secao ativa">
+  <h2>🔍 O que é Phishing?</h2>
+  <p>
+    Phishing é um tipo de golpe online em que criminosos se passam por pessoas ou empresas confiáveis
+    para enganar as vítimas e roubar seus dados pessoais, senhas e informações financeiras.
+  </p>
+  <p>
+    O nome vem do inglês <em>fishing</em> (pescar) — assim como um pescador usa isca para fisgar um peixe,
+    o golpista usa mensagens falsas para "fisgar" a vítima.
+  </p>
+  <div class="exemplo">
+    <strong>Analogia:</strong> Imagine receber uma carta falsa do seu banco pedindo sua senha.
+    No mundo digital, isso acontece por e-mail, SMS ou WhatsApp — e é exatamente o que o phishing faz.
+  </div>
+  <p>
+    Segundo o CERT.br, o phishing é uma das formas mais comuns de fraude na internet no Brasil,
+    e pode acontecer com qualquer pessoa, independentemente de idade ou nível de conhecimento tecnológico.
+  </p>
+</div>
+
+<div id="como-funciona" class="secao">
+  <h2>⚙️ Como funciona o ataque?</h2>
+  <p>O golpista geralmente segue estas etapas:</p>
+  <ul>
+    <li><strong>1. Escolhe a isca:</strong> cria uma mensagem falsa imitando um banco, loja, governo ou pessoa conhecida.</li>
+    <li><strong>2. Envia para a vítima:</strong> por e-mail, SMS, WhatsApp ou redes sociais.</li>
+    <li><strong>3. Cria urgência:</strong> usa frases como "sua conta será bloqueada" ou "você ganhou um prêmio".</li>
+    <li><strong>4. Direciona para um site falso:</strong> parecido com o original, mas criado para roubar dados.</li>
+    <li><strong>5. Rouba as informações:</strong> senhas, CPF, dados bancários, códigos de verificação.</li>
+  </ul>
+
+  <div class="alerta">
+    <strong>⚠️ Exemplos comuns:</strong><br>
+    – E-mail falso do banco pedindo para "atualizar o cadastro".<br>
+    – Mensagem de Pix "enviado por engano" pedindo devolução.<br>
+    – Link falso de rastreio de encomenda.<br>
+    – Oferta imperdível com preço muito abaixo do mercado.
+  </div>
+</div>
+
+<div id="riscos" class="secao">
+  <h2>⚠️ Quais os riscos?</h2>
+  <p>O phishing compromete os principais atributos da segurança da informação:</p>
+  <ul>
+    <li>
+      <strong>Confidencialidade:</strong> dados pessoais, senhas e informações bancárias são expostos
+      a criminosos sem o conhecimento da vítima.
+    </li>
+    <li>
+      <strong>Integridade:</strong> após o acesso indevido, o atacante pode alterar informações,
+      fazer transferências e modificar dados cadastrais.
+    </li>
+    <li>
+      <strong>Disponibilidade:</strong> contas podem ser bloqueadas ou sequestradas,
+      impedindo o acesso legítimo da vítima.
+    </li>
+    <li>
+      <strong>Privacidade:</strong> informações íntimas e financeiras podem ser usadas
+      para aplicar novos golpes ou vendidas na internet.
+    </li>
+  </ul>
+
+  <div class="alerta">
+    <strong>⚠️ Consequências reais:</strong><br>
+    Perda de dinheiro, roubo de identidade, abertura de contas falsas em nome da vítima,
+    dívidas indevidas e até crimes cometidos usando o nome da pessoa.
+  </div>
+</div>
+
+<div id="protecao" class="secao">
+  <h2>🛡️ Como se proteger?</h2>
+  <p>Seguindo as orientações da Cartilha CERT.br, as principais formas de proteção são:</p>
+  <ul>
+    <li>Verifique sempre o remetente de e-mails e mensagens antes de clicar em qualquer link.</li>
+    <li>Confirme se a URL do site começa com <strong>https://</strong> e é o endereço oficial.</li>
+    <li>Nunca forneça senhas, códigos ou dados bancários por mensagem ou ligação telefônica.</li>
+    <li>Ative a <strong>autenticação multifator (MFA)</strong> em todas as suas contas.</li>
+    <li>Desconfie de ofertas urgentes, prêmios inesperados ou ameaças de bloqueio de conta.</li>
+    <li>Mantenha seu antivírus e navegador sempre atualizados.</li>
+    <li>Em transações via Pix ou boleto, confira o nome e o CNPJ do recebedor antes de confirmar.</li>
+  </ul>
+
+  <div class="dica">
+    <strong>✅ Dica extra:</strong> Na dúvida, não clique. Entre em contato diretamente com a empresa
+    pelo site ou telefone oficial para verificar se a mensagem é verdadeira.
+  </div>
+
+  <div class="dica">
+    <strong>✅ Novas tecnologias que ajudam:</strong> Navegadores modernos e provedores de e-mail
+    já utilizam inteligência artificial para detectar e bloquear mensagens de phishing automaticamente.
+    A autenticação biométrica também reduz os riscos, pois mesmo que sua senha seja roubada,
+    o acesso não é concedido sem sua digital ou rosto.
+  </div>
+</div>
+
+<footer>
+  <p>Fonte: <a href="https://cartilha.cert.br/" target="_blank">Cartilha de Segurança para Internet – CERT.br</a></p>
+  <p style="margin-top:5px;">Avaliação 3 – Unidade 5 | Segurança da Informação | CEUB</p>
+</footer>
+
+<script>
+  function mostrar(id, botao) {
+    document.querySelectorAll('.secao').forEach(function(s) {
+      s.classList.remove('ativa');
+    });
+    document.querySelectorAll('nav button').forEach(function(b) {
+      b.classList.remove('ativo');
+    });
+    document.getElementById(id).classList.add('ativa');
+    botao.classList.add('ativo');
+  }
+</script>
+
+</body>
+</html>
