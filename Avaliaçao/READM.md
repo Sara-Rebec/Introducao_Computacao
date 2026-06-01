@@ -44,7 +44,9 @@ Seção 3 – Quais os riscos?: impactos financeiros, de privacidade e de identi
 
 Seção 4 – Como se proteger?: mecanismos de proteção com dicas visuais e interativas.
 
-# Criado para o público mais velho entre 40 a 100 anos
+---
+ Criado para o público mais velho entre 40 a 100 anos
+---
 link de acesso: https://sara-rebec.github.io/Introducao_Computacao/ 
 
 ------
