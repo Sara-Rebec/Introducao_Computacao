@@ -1,6 +1,6 @@
 # Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
 
-## Nome(s) do(s) estudante(s): Sara Rebeca do Rosario Soares Matrícula(s): 22610249
+## Nome(s) do(s) estudante(s): Sara Rebeca do Rosario Soares Matrícula(s): 22610249 
 
 ## Objetivo
 
