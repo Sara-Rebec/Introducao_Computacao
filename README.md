@@ -4,7 +4,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ---
 
-## 📋 Sumário
+## 📋 Sumário 
 
 - [Unidades 1 e 2](Unidades-1-2)
 - [Unidade 3](Unidade%203)
