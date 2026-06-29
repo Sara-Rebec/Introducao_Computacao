@@ -11,7 +11,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 - [Unidade 4](Unidade%204)
 - [Unidade 5](Unidade%205)
 - [Unidade 6](Unidade%206)
-- [Avaliação](Avalia%C3%A7%C3%A3o)
+- [Avaliação](Avaliacao)
 
 ---
 
