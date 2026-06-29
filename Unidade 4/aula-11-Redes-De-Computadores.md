@@ -57,11 +57,12 @@ As topologias de rede representam a forma como os dispositivos estão conectados
 
 A topologia em estrela é a mais adequada para uma residência, pois todos os dispositivos são conectados a um roteador central. Esse modelo facilita a instalação, a manutenção e a identificação de falhas, além de permitir que os demais dispositivos continuem funcionando caso apenas um apresente problemas. Por isso, é a topologia mais utilizada em redes domésticas.
 
--
+
+----------------------------------------------
+
 
 # Referências
 
-# Referências
 
 - TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. **Redes de Computadores**. 6. ed. São Paulo: Bookman, 2021.
 
