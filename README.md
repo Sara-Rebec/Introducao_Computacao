@@ -62,6 +62,6 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ---
 
-# 📌 Repositório organizado para fins de estudo e entrega de atividades da disciplina de Introdução à Computação
+# 📌 Repositório organizado para estudo, entrega de atividades da disciplina de Introdução à Computação - Avaliação Final.
 
 
