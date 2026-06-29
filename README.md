@@ -59,6 +59,6 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 - [README da Avaliação](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avalia%C3%A7ao/READM.md)
 - [Index](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/index.html)
-- [Reflexão](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avaliacao/reflexao.md)
+- [Reflexão](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avalia%C3%A7ao/reflexao.md)
 
 
