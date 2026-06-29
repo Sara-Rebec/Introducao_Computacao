@@ -61,5 +61,12 @@ A topologia em estrela é a mais adequada para uma residência, pois todos os di
 
 # Referências
 
+# Referências
+
 - TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. **Redes de Computadores**. 6. ed. São Paulo: Bookman, 2021.
+
+- KUROSE, James F.; ROSS, Keith W. **Redes de Computadores e a Internet: Uma Abordagem Top-Down**. 8. ed. São Paulo: Pearson, 2022.
+
+- CISCO NETWORKING ACADEMY. **Introduction to Networks (ITN)**. Cisco Networking Academy. Disponível em: https://www.netacad.com/. 
+
 - Material da disciplina de Introdução à Computação.
