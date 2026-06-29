@@ -38,7 +38,7 @@ Essa evolução demonstra como os principais componentes da arquitetura de compu
 
 ## Referências
 
-* Computer History Museum. *ENIAC*. Disponível em: [https://computerhistory.org/](https://computerhistory.org/). Acesso em: 29 jun. 2026.
+* Computer History Museum. *ENIAC*. Disponível em: [https://computerhistory.org/](https://computerhistory.org/). Acesso em: 16 de maio. 2026.
 * IMD – Instituto Metrópole Digital. **Material Didático – Arquitetura de Computadores**. Natal: UFRN, 2026. Disponível em: [https://materialpublic.imd.ufrn.br/curso/disciplina/5/14](https://materialpublic.imd.ufrn.br/curso/disciplina/5/14).
 * MONTEIRO, Mário A. **Introdução à Organização de Computadores**. 5. ed. Rio de Janeiro: LTC, 2015.
 * TANENBAUM, Andrew S. **Organização Estruturada de Computadores**. 6. ed. Pearson, 2013.
