@@ -13,7 +13,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 - [Unidade 4](Unidade%204)
 - [Unidade 5](https://github.com/Sara-Rebec/Introducao_Computacao/tree/main/Unidade%205%20)
 - [Unidade 6](Unidade%206)
-- [Avaliação](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avaliacao)
+- [Avaliação](https://github.com/Sara-Rebec/Introducao_Computacao/tree/main/Avalia%C3%A7ao)
 
 ---
 
