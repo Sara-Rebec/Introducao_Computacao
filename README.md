@@ -49,8 +49,6 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ---
 
-# 📌 Repositório organizado para fins de estudo e entrega de atividades da disciplina de Introdução à Computação
-## Unidade 6
 
 - [Aula 17 — Governança e Gestão de TI](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%206/GrupoX_aula17-Governanca-e-Gestao-de-TI.md)
 
@@ -61,5 +59,9 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 - [README da Avaliação](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avalia%C3%A7ao/READM.md)
 - [Index](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/index.html)
 - [Reflexão](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Avalia%C3%A7ao/reflexao.md)
+
+---
+
+# 📌 Repositório organizado para fins de estudo e entrega de atividades da disciplina de Introdução à Computação
 
 
