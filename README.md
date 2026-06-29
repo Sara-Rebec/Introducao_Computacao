@@ -19,7 +19,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 - [Atividade Dispositivos E/S (16-03)](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidades-1-2/Atividade_DispositivosES_16-03%20(1).docx)
 - [Evolução da Computação na Segurança Digital](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidades-1-2/Evolu%C3%A7%C3%A3o%20da%20Computa%C3%A7%C3%A3o%20na%20Seguran%C3%A7a%20Digital%20(2).pdf)
-- [Resumo Individual — Relação dos Grupos e Sistemas Operacionais](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidades-1-2/Resumo%20Individual%20do%20trabalho%20Rela%C3%A7%C3%A3o%20dos%20Grupos%20e%20Sistemas%20Operacionais.pdf)
+- [Resumo Individual — Relação dos Grupos e Sistemas Operacionais](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidades-1-2/Resumo%20Individual%20do%20trabalho_%20Rela%C3%A7%C3%A3o%20dos%20Grupos%20e%20Sistemas%20Operacionais.pdf)
 - [Arqueologia Digital e a Evolução dos Componentes](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidades-1-2/arqueologia-digital-e-a-evolucao-dos-componentes.md)
 
 ---
