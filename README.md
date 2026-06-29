@@ -27,7 +27,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 ## Unidade 3
 
 - [Atividade In-Class: Desconstruindo um Sistema](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Atividade%20In-Class_%20Desconstruindo%20um%20Sistema.pdf)
-- [Entendendo o Dado — Aula 8 Parte 1](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Aula8_Parte1_Entendendo-O-dado.md)
+- [Entendendo o Dado — Aula 8 Parte 1](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Aula08_Parte1_Entendendo-O-dado.md)
 - [Criação de uma Startup Baseada em Sistemas de Informação](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Cria%C3%A7%C3%A3o%20de%20uma%20Startup%20Baseada%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o.pdf)
 - [Dados, Informação e Conhecimento](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Dados_Informacao_Conhecimento.pdf)
 - [Relatório: Uso de SI em Empresas](https://github.com/Sara-Rebec/Introducao_Computacao/blob/main/Unidade%203/Relat%C3%B3rio_%20Uso%20de%20SI%20em%20Empresas.pdf)
